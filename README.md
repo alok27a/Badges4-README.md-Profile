@@ -1,3 +1,13 @@
+<p align='center'>
+ <a href='https://github.com/sponsors/alexandresanlim'>
+  <img src='https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/sponsors/sponsor.png?raw=true' width=150 />
+ </a>
+</p>
+
+<p align='center'>
+Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor this project</a> ❤️
+</p>
+
 <h1 align='center'>
   Welcome! Badges 4 README.md Profile
 </h1>
@@ -9,7 +19,7 @@
 <p align='center'>
   <a href="https://github.com/sponsors/alexandresanlim"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge" /></a>
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge" /></a>
 </p>
 <br />
 
@@ -282,6 +292,7 @@ or
 | <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />                           | `https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white`                           |
 | <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white" />                                 | `https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />                      | `https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white`                      |
+| <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=white" />                 | `https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" />                 | `https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />                               | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white" />                            | `https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white`                            |
@@ -677,8 +688,9 @@ or
 
 | Badge                                                                                                                                   | URL                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white" />                            | `https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white`                            |
+| <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white" />                            | `https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white`                            |
 | <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" /> | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400` |
+| <img src="https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white" />                            | `https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white`                            |
 
 ## 👩‍💻 IDE [🔝](#menu)
 
@@ -1173,6 +1185,8 @@ or
 | <img src="https://img.shields.io/badge/CountingWorks%20PRO-2E3084?style=for-the-badge&logo=CountingWorks%20PRO&logoColor=white" /> | `https://img.shields.io/badge/CountingWorks%20PRO-2E3084?style=for-the-badge&logo=CountingWorks%20PRO&logoColor=white` |
 | <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />                     | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />         | `https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe`         |
+| <img src="https://img.shields.io/badge/Graphite-000000?style=for-the-badge&logo=Graphite&logoColor=white" />         |
+`https://img.shields.io/badge/Graphite-000000?style=for-the-badge&logo=Graphite&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>                          | `https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                               | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/Redmine-9C0000?style=for-the-badge&logo=Redmine&logoColor=white" />                         | `https://img.shields.io/badge/Redmine-9C0000?style=for-the-badge&logo=Redmine&logoColor=white`                         |
